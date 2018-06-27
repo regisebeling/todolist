@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="menu_settings">Settings</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="salvar">Salvar</string>
+    <string name="tipo_contato">Tipo de Contato:</string>
+    <string name="tipo_pessoal">Pessoal</string>
+    <string name="tipo_profissional">Profissional</string>
+    <string name="tipo_academico">Acadêmico</string>
+    <string name="desc_icone">Ícone indicando o tipo de contato</string>
+    <string name="todo">TODO</string>
+    <string name="done">DONE</string>
+    <string name="tasks">ALL</string>
+    <string name="add">ADD</string>
+</resources>
